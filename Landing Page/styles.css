@@ -9,7 +9,7 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-    background: rgb(0, 0, 0);
+    background: #000;
 }
 
 body::-webkit-scrollbar-thumb {
@@ -26,9 +26,14 @@ color: whitesmoke;
     padding: 5px;
     font-size: 18px;}
 
-    img{margin-right: auto;
-    width: 100px;
-    }
+.material-symbols-outlined{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color: whitesmoke;
+    font-size: 40px !important;
+    cursor: default;
+}
 
 .link{
     color: whitesmoke;
@@ -72,13 +77,14 @@ padding: 50px;
 
 }
 .button{
+    border: 1.5px solid whitesmoke;
     color: whitesmoke;
     background-color: #3882F6;
-    text-align: center;
-    width: 75px;
-    border: none;
     border-radius: 2px;
+    width: 100px;
+    padding: 5px;
     cursor: pointer;
+    
 }
 .square-section{
     background-color: white;
@@ -129,8 +135,8 @@ padding: 50px;
 }
 
 .button-time{
-    border: 2px solid white;
-    color: white;
+    border: 1.5px solid whitesmoke;
+    color: whitesmoke;
     background-color: #3882F6;
     border-radius: 2px;
     width: 100px;
