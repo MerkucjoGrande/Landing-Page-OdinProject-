@@ -6,3 +6,7 @@ Added Sign up page after clicking any of the 3 sign ups on the home page <br>
 Sign up page is a form that requires and gives feedback on specific inputs <br>
 Fonticon with rotating animation onclick takes to homePage <br>
 Media query makes the page dark/light mode depending on your system prefrence (only the sign up portion) <br>
+7.05.2022 <br>
+Cosmetic upgrade <br>
+8.05.2022 <br> 
+Working on OdinProject grid Admin Dashboard <br>
